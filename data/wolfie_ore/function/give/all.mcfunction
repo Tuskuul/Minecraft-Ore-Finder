@@ -1,0 +1,10 @@
+function wolfie_ore:give/coal
+function wolfie_ore:give/iron
+function wolfie_ore:give/copper
+function wolfie_ore:give/gold
+function wolfie_ore:give/redstone
+function wolfie_ore:give/lapis
+function wolfie_ore:give/diamond
+function wolfie_ore:give/emerald
+function wolfie_ore:give/quartz
+function wolfie_ore:give/ancient_debris

@@ -1,0 +1,2 @@
+$execute if score @s wo.slot matches 0 run item modify entity @s weapon.mainhand {type:"minecraft:set_components",components:{"minecraft:lodestone_tracker":{target:{dimension:"$(dimension)",pos:[$(x),$(y),$(z)]},tracked:false}}}
+$execute if score @s wo.slot matches 1 run item modify entity @s weapon.offhand {type:"minecraft:set_components",components:{"minecraft:lodestone_tracker":{target:{dimension:"$(dimension)",pos:[$(x),$(y),$(z)]},tracked:false}}}

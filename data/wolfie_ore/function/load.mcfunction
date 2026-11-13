@@ -1,0 +1,23 @@
+scoreboard objectives add wo.type dummy
+scoreboard objectives add wo.prev dummy
+scoreboard objectives add wo.slot dummy
+scoreboard objectives add wo.pslot dummy
+scoreboard objectives add wo.dim dummy
+scoreboard objectives add wo.pdim dummy
+scoreboard objectives add wo.state dummy
+scoreboard objectives add wo.batch dummy
+scoreboard objectives add wo.wait dummy
+scoreboard objectives add wo.ox dummy
+scoreboard objectives add wo.oy dummy
+scoreboard objectives add wo.oz dummy
+scoreboard objectives add wo.px dummy
+scoreboard objectives add wo.py dummy
+scoreboard objectives add wo.pz dummy
+scoreboard objectives add wo.tx dummy
+scoreboard objectives add wo.ty dummy
+scoreboard objectives add wo.tz dummy
+scoreboard objectives add wo.d2 dummy
+scoreboard objectives add wo.dy dummy
+scoreboard objectives add wo.tmp dummy
+scoreboard objectives add wo.ui dummy
+scoreboard players set #radius wo.tmp 256
